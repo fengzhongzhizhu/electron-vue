@@ -1,7 +1,7 @@
 {
   "name": "electron",
-  "version": "0.0.1",
-  "author": "lch <8748928@qq.com>",
+  "version": "1.0.0",
+  "author": "lch <980047816@qq.com>",
   "description": "An electron-vue project",
   "license": null,
   "main": "./dist/electron/main.js",
